@@ -1,0 +1,7 @@
+title: HFLECLERC
+description: Mon site personnel - Présentation, Projets et Blog
+baseurl: "/HFLECLERC"
+url: "https://hoobert2005.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
